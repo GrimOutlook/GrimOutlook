@@ -19,7 +19,7 @@ Docker, Proxmox, VSCode, Qt/PyQT, LaTeX, Atlassian (JIRA, Bitbucket, Confluence)
 
 _This experience spans over all applicable jobs in my work history. Specific employers are not mentioned for brevity. If interested in reaching out for employment opportunities, please reach out to my email._
 
-- Created a custom SpiraTest API import-export tool using Rust.
+- Create a UML XMI/XML parser in Rust to generate documentation.
 - Used PlantUML to create data flow diagrams for understanding Tactical Messaging traffic through the system.
 - Convert unmaintainable Python applications into Java.
 - Created and maintained GitLab CI/CD Pipelines including pipeline Docker image and pipeline YAML/config.
