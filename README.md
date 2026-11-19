@@ -48,29 +48,6 @@ _This experience spans over all applicable jobs in my work history. Specific emp
 
 ## Hobby Projects
 
-### WHIMSI
-
-A user-first MSI generation library and command line tool written in Rust. Currently the main hobby project that I work on in my free time.
-
-During the course of my paid work I've noticed a gap that seemed odd to me.
-There was no Linux command line tool that could build MSIs and were relatively fully featured and easy to use.
-The closest alternatve I found was [msitools](https://gitlab.gnome.org/GNOME/msitools) but it's based on WiX which is not straightforward to use from my experience and it is missing quite a few features that I desired at the time, such as running specific kinds of CustomActions.
-
-### TS-Analyzer
-
-A library used for parsing MPEG2-TS data and reading metadata from individual packets written in Rust. Almost feature complete. Only minor features needed.
-
-Based on code that I made in Python for a tool used at my job.
-The Python implementation was slower than I liked so I figured I would used some of my free time to make a better version in Rust.
-
-### KLV-UAS
-
-A library used for parsing KLV data from MPEG2-TS payload data written in Rust.
-Still requires quite a bit of work before I would call it done for the purposes I needed it for, but I don't have much incentive to work on it at the moment.
-
-Also based on code that I made in Python for a tool used at my job.
-Done for the same reason as above.
-
 ### Hima
 
 A simple PPL calculator written in React/TypeScript. Not quite complete but almost good enough to use.
